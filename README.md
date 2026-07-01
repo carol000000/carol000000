@@ -1,27 +1,16 @@
-<h1 align="center">I'm Gua</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/https://youtube.com/channel/ucf4c1lqmcegqbl5seiahlba?si=abxv8ujbmmassxyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucf4c1lqmcegqbl5seiahlba?si=abxv8ujbmmassxyr" height="30" width="40" /></a>
-</p>
+# About Me:
+### Gua
+我叫呱呱 廢物一枚 目前是個高中生 最喜歡喀嘣脆的TNT 只寫的出 hello_word("print") 喜歡玩Minecraft和拆家
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carol000000&show_icons=true&title_color=0a30c7&text_color=2067f3&bg_color=ffffff&locale=en&layout=compact" alt="carol000000" /></p>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/wXbXHhfvbd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/channel/UCf4C1LQmCEGqbl5seIAhlBA?si=eVbG0E7yYvthKUui) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=carol000000&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=carol000000&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=carol000000&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carol000000&show_icons=true&title_color=0046b8&text_color=007bff&bg_color=ffffff&locale=en" alt="carol000000" /></p>
+---
+[![](https://komarev.com/ghpvc/?username=carol000000&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<!--
-**carol000000/carol000000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
